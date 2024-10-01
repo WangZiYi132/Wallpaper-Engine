@@ -1,0 +1,22 @@
+{
+	"Platform" : "Steam",
+	"Host" : "Workshop",
+	"support_email" : "support@wallpaperengine.io",
+	"var_url_faq" : "https://help.wallpaperengine.io",
+	"var_url_faqvideo" : "https://help.wallpaperengine.io/noshow/notplaying.html",
+	"var_url_faqdownloads" : "https://help.wallpaperengine.io/steam/download",
+	"var_url_faqredownload" : "https://help.wallpaperengine.io/steam/redownload",
+	"var_url_faqsteam" : "https://help.wallpaperengine.io/steam/steamworks",
+	"var_url_faqexport" : "https://help.wallpaperengine.io/functionality/export.html",
+	"var_url_faqscreensaver" : "https://help.wallpaperengine.io/functionality/screensaver.html",
+	"var_url_faqexternalprograms" : "https://docs.wallpaperengine.io/scene/image-preparation/external-editor.html",
+	"var_url_discussions" : "steam://url/GameHub/431960\\discussions",
+	"var_url_sendsupportmail" : "mailto:support@wallpaperengine.io?Subject=Application%20Support%20(Steam)",
+	"var_url_userpage" : "steam://url/SteamIDPage/{{id}}",
+	"var_url_providerrules" : "http://store.steampowered.com/subscriber_agreement/",
+	"var_url_translations" : "steam://url/GameHub/431960\\discussions\\7\\215439774876424597",
+	"var_url_store" : "https://store.steampowered.com/app/431960",
+	"var_url_mobile_faq" : "https://help.wallpaperengine.io/mobile/pairing.html",
+	"var_url_mobile_download" : "https://www.wallpaperengine.io/android",
+	"var_url_platform_account_preferences" : "steam://openurl/https://store.steampowered.com/account/preferences"
+}

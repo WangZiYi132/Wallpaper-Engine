@@ -1,0 +1,99 @@
+2019-09-05T14:31:16Z: NVAPI init: OK
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateSession: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_LoadSettings: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_FindProfileByName: -163
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateProfile: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateApplication wallpaper32.exe: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateApplication wallpaper64.exe: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_FindProfileByName: -163
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateProfile: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_CreateApplication ui32.exe: 0
+2019-09-05T14:31:16Z: NvAPI_DRS_SaveSettings: 0
+2019-09-05T14:31:16Z: NVAPI success: 1
+2019-09-05T14:36:53Z: NVAPI init: OK
+2019-09-05T14:36:53Z: NvAPI_DRS_CreateSession: 0
+2019-09-05T14:36:54Z: NvAPI_DRS_LoadSettings: 0
+2019-09-05T14:36:54Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:36:54Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-05T14:36:54Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-05T14:36:54Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-05T14:36:54Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:36:54Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-05T14:36:54Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-05T14:36:54Z: NvAPI_DRS_SaveSettings: 0
+2019-09-05T14:36:54Z: NVAPI success: 1
+2019-09-05T14:38:15Z: NVAPI init: OK
+2019-09-05T14:38:15Z: NvAPI_DRS_CreateSession: 0
+2019-09-05T14:38:15Z: NvAPI_DRS_LoadSettings: 0
+2019-09-05T14:38:15Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:38:15Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-05T14:38:15Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-05T14:38:15Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-05T14:38:15Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:38:15Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-05T14:38:15Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-05T14:38:15Z: NvAPI_DRS_SaveSettings: 0
+2019-09-05T14:38:15Z: NVAPI success: 1
+2019-09-05T14:44:39Z: NVAPI init: OK
+2019-09-05T14:44:39Z: NvAPI_DRS_CreateSession: 0
+2019-09-05T14:44:39Z: NvAPI_DRS_LoadSettings: 0
+2019-09-05T14:44:39Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:44:39Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-05T14:44:39Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-05T14:44:39Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-05T14:44:39Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-05T14:44:39Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-05T14:44:39Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-05T14:44:39Z: NvAPI_DRS_SaveSettings: 0
+2019-09-05T14:44:39Z: NVAPI success: 1
+2019-09-25T15:32:50Z: Forcing update because of missing file: E:\SteamLibrary\steamapps\common\wallpaper_engine\bin/apputil32.exe
+2019-09-25T15:33:03Z: NvAPI_DRS_CreateSession: 0
+2019-09-25T15:33:03Z: NvAPI_DRS_LoadSettings: 0
+2019-09-25T15:33:03Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:33:03Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-25T15:33:03Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-25T15:33:03Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-25T15:33:03Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:33:03Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-25T15:33:03Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-25T15:33:03Z: NvAPI_DRS_SaveSettings: 0
+2019-09-25T15:33:03Z: NVAPI success: 1
+2019-09-25T15:34:34Z: NvAPI_DRS_CreateSession: 0
+2019-09-25T15:34:34Z: NvAPI_DRS_LoadSettings: 0
+2019-09-25T15:34:34Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:34:34Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-25T15:34:34Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-25T15:34:34Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-25T15:34:34Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:34:34Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-25T15:34:34Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-25T15:34:34Z: NvAPI_DRS_SaveSettings: 0
+2019-09-25T15:34:34Z: NVAPI success: 1
+2019-09-25T15:34:51Z: NvAPI_DRS_CreateSession: 0
+2019-09-25T15:34:51Z: NvAPI_DRS_LoadSettings: 0
+2019-09-25T15:34:51Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:34:51Z: Profile Wallpaper Engine found, not overwriting.
+2019-09-25T15:34:51Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2019-09-25T15:34:51Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2019-09-25T15:34:51Z: NvAPI_DRS_FindProfileByName: 0
+2019-09-25T15:34:51Z: Profile Wallpaper Engine UI found, overwriting.
+2019-09-25T15:34:51Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2019-09-25T15:34:51Z: NvAPI_DRS_SaveSettings: 0
+2019-09-25T15:34:51Z: NVAPI success: 1
+2024-03-27T14:02:49Z: Cannot open C:/steam/steamapps/workshop/content/431960/2262821456/scene.pkg because version 9 is not supported.
+2024-03-27T14:02:49Z: Failed opening file: scene.json
+2024-03-27T14:02:49Z: Cannot open C:/steam/steamapps/workshop/content/431960/2262821456/scene.pkg because version 9 is not supported.
+2024-03-27T14:02:49Z: Failed opening file: scene.json
+2024-03-27T14:02:49Z: Failed parsing scene.json with error: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+. Contents: 
+2024-03-27T15:52:21Z, 3996: Forcing update because of missing file: E:\SteamLibrary\steamapps\common\wallpaper_engine\bin/chrome_100_percent.pak
+2024-04-26T20:04:58Z, 9080: Cannot load plugin E:/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2024-04-26T20:05:38Z, 13256: Cannot load plugin E:/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2024-04-26T20:17:18Z, 1840: VFS missing file: E:/SteamLibrary/steamapps/workshop/content/431960/2992962022/scene.pkg
+2024-04-26T20:17:18Z, 1840: Failed opening: scene.json
+2024-04-26T20:17:18Z, 2920: VFS missing file: E:/SteamLibrary/steamapps/workshop/content/431960/2992962022/scene.pkg
+2024-04-26T20:17:18Z, 2920: Failed opening: scene.json
+2024-04-26T20:17:18Z, 2920: Failed parsing scene.json with error: Rapidjson error 1 at 0: .
+2024-09-29T12:57:27Z, 15316: IPC timeout: 400
+2024-09-29T12:57:28Z, 6500: Forcing update because of missing file: C:\Program Files (x86)\Wallpaper Engine\bin/cloneextensions32.dll
